@@ -5,8 +5,8 @@ public class Info {
     private String imageUrl;
     private String fav;
     private String buttonRead;
-    private String like;
+    private int like;
     private String comment;
     private String share;
-    private String view;
+    private int view;
 }
