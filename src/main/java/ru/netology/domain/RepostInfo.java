@@ -1,9 +1,9 @@
 package ru.netology.domain;
 
-public class Repost {
+public class RepostInfo {
     private int count;
     private int userReposted;
-    private int canPublish;
+    private boolean canPublish;
     private String buttonRep;
 
 }

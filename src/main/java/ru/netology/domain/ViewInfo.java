@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class View {
+public class ViewInfo {
     private String iconView;
     private int count;
 

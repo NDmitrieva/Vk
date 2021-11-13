@@ -1,9 +1,9 @@
 package ru.netology.domain;
 
-public class Like {
+public class LikeInfo {
     private int count;
     private int userLikes;
-    private int canLike;
+    private boolean canLike;
     private String buttonHard;
 
 }
